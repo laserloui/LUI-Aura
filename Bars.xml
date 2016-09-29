@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sprites>
+    <Sprite Name="bar_basic" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\basic.tga" x0="0" x1="0" x2="0" x3="0" x4="25" x5="25" y0="0" y1="0" y2="0" y3="0" y4="25" y5="25" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fire" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fire.tga" x0="0" x1="0" x2="0" x3="0" x4="50" x5="50" y0="0" y1="0" y2="0" y3="0" y4="50" y5="50" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_metal" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\metal1.tga" x0="0" x1="0" x2="0" x3="0" x4="25" x5="25" y0="0" y1="0" y2="0" y3="0" y4="25" y5="25" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_minimalist" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\Minimalist.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_aluminium" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\Aluminium.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_angelique" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\Angelique.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_antonia" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\Antonia.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_armory" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\Armory.tga" x0="0" x1="0" x2="0" x3="0" x4="16" x5="16" y0="0" y1="0" y2="0" y3="0" y4="16" y5="16" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_banto" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\BantoBar.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_bettina" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\Bettina.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_empathy1" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\empath1.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_empathy2" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\empath2.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_empathy3" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\empath3.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_empathy4" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\empath4.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_empathy5" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\empath5.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_empathy6" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\empath6.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_empathy7" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\empath7.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_empathy8" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\empath8.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_empathy9" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\empath9.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_empathy10" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\empath10.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_empathy11" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\empath11.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_empathy12" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\empath12.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer1" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer3.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer2" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer6.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer3" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer8.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer4" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer9.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer5" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer12.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer6" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer13.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer7" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer14.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer8" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer16.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer9" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer24.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer10" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer25.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer11" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer27.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer12" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer32.tga" x0="0" x1="0" x2="0" x3="10" x4="245" x5="255" y0="0" y1="0" y2="0" y3="10" y4="22" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer13" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer34.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_fer14" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\fer35.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_flat" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\Flat.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_jasmin" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\Jasmin.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_larissa" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\Larissa.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_otravi" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\Otravi.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_gradient1" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishgradient.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_gradient2" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishgradient2.tga" x0="0" x1="0" x2="0" x3="0" x4="512" x5="512" y0="0" y1="0" y2="0" y3="0" y4="64" y5="64" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_gradient3" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishgradient3.tga" x0="0" x1="0" x2="0" x3="0" x4="512" x5="512" y0="0" y1="0" y2="0" y3="0" y4="64" y5="64" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish1" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish2" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex2.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish3" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex3.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish4" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex4.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish5" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex5.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish6" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex6.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish7" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex7.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish8" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex10.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish9" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex13.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish10" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex15.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish11" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex16.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish12" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex17.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish13" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex20.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish14" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex22.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish15" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex23.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish16" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex25.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish17" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex28.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish18" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex29.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish19" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex30.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish20" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex31.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish21" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex33.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish22" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex35.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish23" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex36.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish24" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex37.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish25" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex38.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_phish26" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\pHishTex39.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_sam" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\Sam.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_stella" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\Stella.tga" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_castbar1" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_CastBar_Temp_0_130.tex" x0="0" x1="0" x2="0" x3="0" x4="218" x5="218" y0="0" y1="0" y2="0" y3="0" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_castbar2" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_CastBar_Temp_0_149.tex" x0="0" x1="0" x2="0" x3="0" x4="219" x5="219" y0="0" y1="0" y2="0" y3="0" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_castbar3" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_CastBar_Temp_0_168.tex" x0="0" x1="0" x2="0" x3="0" x4="219" x5="219" y0="0" y1="0" y2="0" y3="0" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_action_green" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_ActionBar_0_191.tex" x0="0" x1="0" x2="0" x3="0" x4="376" x5="376" y0="0" y1="0" y2="0" y3="0" y4="45" y5="45" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_action_orange" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_ActionBar_0_237.tex" x0="0" x1="0" x2="0" x3="0" x4="376" x5="376" y0="0" y1="0" y2="0" y3="0" y4="45" y5="45" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_action_red" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_ActionBar_0_283.tex" x0="0" x1="0" x2="0" x3="0" x4="376" x5="376" y0="0" y1="0" y2="0" y3="0" y4="45" y5="45" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_action_blue" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_ActionBar_0_329.tex" x0="0" x1="0" x2="0" x3="0" x4="376" x5="376" y0="0" y1="0" y2="0" y3="0" y4="45" y5="45" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_action_white" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_ActionBar_0_375.tex" x0="0" x1="0" x2="0" x3="0" x4="376" x5="376" y0="0" y1="0" y2="0" y3="0" y4="45" y5="45" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_action_purple" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_ActionBar_0_420.tex" x0="0" x1="0" x2="0" x3="0" x4="376" x5="376" y0="1" y1="1" y2="1" y3="1" y4="46" y5="46" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_actionbar_orange" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_ActionBar_2_504_364.tex" x0="8" x1="8" x2="8" x3="13" x4="25" x5="30" y0="3" y1="3" y2="3" y3="8" y4="31" y5="36" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_actionbar_white" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_ActionBar_2_547_364.tex" x0="8" x1="8" x2="8" x3="14" x4="24" x5="30" y0="2" y1="2" y2="2" y3="8" y4="31" y5="36" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_datachron_glow" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_DatachronModes_551_424.tex" x0="0" x1="0" x2="0" x3="6" x4="172" x5="178" y0="0" y1="0" y2="0" y3="5" y4="10" y5="15" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_datachron_green" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_DatachronModes_610_676.tex" x0="1" x1="1" x2="1" x3="4" x4="188" x5="193" y0="2" y1="2" y2="2" y3="4" y4="9" y5="11" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_datachron_orange" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_DatachronModes_611_698.tex" x0="0" x1="0" x2="0" x3="3" x4="188" x5="192" y0="2" y1="2" y2="2" y3="4" y4="9" y5="11" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_datachron_red" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_DatachronModes_611_720.tex" x0="0" x1="0" x2="0" x3="3" x4="189" x5="192" y0="2" y1="2" y2="2" y3="4" y4="9" y5="11" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_thin_red" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_TargetFrames_218_234.tex" x0="0" x1="0" x2="0" x3="3" x4="110" x5="112" y0="0" y1="0" y2="0" y3="5" y4="8" y5="13" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_thin_orange" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_TargetFrames_219_270.tex" x0="0" x1="0" x2="0" x3="2" x4="109" x5="111" y0="0" y1="0" y2="0" y3="5" y4="8" y5="13" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_telegraph_red" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_TelegraphBars_185_158.tex" x0="0" x1="0" x2="0" x3="2" x4="111" x5="113" y0="0" y1="0" y2="0" y3="5" y4="11" y5="16" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_telegraph_orange" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_TelegraphBars_185_174.tex" x0="0" x1="0" x2="0" x3="2" x4="111" x5="113" y0="0" y1="0" y2="0" y3="5" y4="11" y5="16" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_telegraph_gray" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_TelegraphBars_185_190.tex" x0="0" x1="0" x2="0" x3="2" x4="111" x5="113" y0="0" y1="0" y2="0" y3="5" y4="11" y5="16" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_telegraph_purple" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_TelegraphBars_185_206.tex" x0="0" x1="0" x2="0" x3="2" x4="111" x5="113" y0="0" y1="0" y2="0" y3="5" y4="11" y5="16" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_telegraph_white" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_TelegraphBars_185_222.tex" x0="0" x1="0" x2="0" x3="2" x4="111" x5="113" y0="0" y1="0" y2="0" y3="5" y4="11" y5="16" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_telegraph_blue" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_TelegraphBars_185_238.tex" x0="0" x1="0" x2="0" x3="2" x4="111" x5="113" y0="0" y1="0" y2="0" y3="5" y4="11" y5="16" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_raid_green" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_RaidFrames_250_371.tex" x0="0" x1="0" x2="0" x3="5" x4="164" x5="169" y0="0" y1="0" y2="0" y3="5" y4="28" y5="33" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_raid_orange" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_RaidFrames_434_221.tex" x0="0" x1="0" x2="0" x3="5" x4="164" x5="169" y0="0" y1="0" y2="0" y3="5" y4="28" y5="33" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_raid_red" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_RaidFrames_434_256.tex" x0="0" x1="0" x2="0" x3="5" x4="164" x5="169" y0="0" y1="0" y2="0" y3="5" y4="28" y5="33" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_raid_small_green" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_RaidFrames_250_405.tex" x0="0" x1="0" x2="0" x3="0" x4="167" x5="167" y0="0" y1="0" y2="0" y3="0" y4="12" y5="12" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_raid_small_orange" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_RaidFrames_250_418.tex" x0="0" x1="0" x2="0" x3="0" x4="167" x5="167" y0="0" y1="0" y2="0" y3="0" y4="12" y5="12" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_raid_small_red" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_RaidFrames_250_432.tex" x0="0" x1="0" x2="0" x3="0" x4="167" x5="167" y0="0" y1="0" y2="0" y3="0" y4="12" y5="12" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bar_actionbar_blue" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_HUD_ActionBar_2_461_364.tex" x0="8" x1="8" x2="8" x3="14" x4="24" x5="30" y0="2" y1="2" y2="2" y3="8" y4="31" y5="36" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_001" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_001.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_002" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_002.png" x0="0" x1="0" x2="0" x3="0" x4="128" x5="128" y0="0" y1="0" y2="0" y3="0" y4="128" y5="128" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_003" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_003.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_004" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_004.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="64" y5="64" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_005" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_005.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_006" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_006.png" x0="0" x1="0" x2="0" x3="0" x4="128" x5="128" y0="0" y1="0" y2="0" y3="0" y4="16" y5="16" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_007" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_007.png" x0="0" x1="0" x2="0" x3="0" x4="128" x5="128" y0="0" y1="0" y2="0" y3="0" y4="16" y5="16" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_008" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_008.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_009" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_009.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_010" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_010.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_011" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_011.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_012" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_012.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_013" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_013.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_014" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_014.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_015" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_015.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_016" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_016.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_017" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_017.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_018" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_018.png" x0="0" x1="0" x2="0" x3="0" x4="248" x5="248" y0="0" y1="0" y2="0" y3="0" y4="23" y5="23" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_019" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_019.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="30" y5="30" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_020" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_020.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_021" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_021.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_022" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_022.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_023" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_023.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_024" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_024.png" x0="0" x1="0" x2="0" x3="0" x4="64" x5="64" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_025" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_025.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_026" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_026.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_027" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_027.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_028" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_028.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_029" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_029.png" x0="0" x1="0" x2="0" x3="0" x4="512" x5="512" y0="0" y1="0" y2="0" y3="0" y4="64" y5="64" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_030" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_030.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_031" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_031.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_032" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_032.png" x0="0" x1="0" x2="0" x3="0" x4="128" x5="128" y0="0" y1="0" y2="0" y3="0" y4="16" y5="16" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_033" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_033.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_034" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_034.png" x0="0" x1="0" x2="0" x3="0" x4="248" x5="248" y0="0" y1="0" y2="0" y3="0" y4="23" y5="23" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="tex_035" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\tex_035.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="64" y5="64" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="custom_001" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\custom_001.png" x0="0" x1="0" x2="0" x3="0" x4="512" x5="512" y0="0" y1="0" y2="0" y3="0" y4="64" y5="64" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="custom_002" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\custom_002.png" x0="0" x1="0" x2="0" x3="0" x4="512" x5="512" y0="0" y1="0" y2="0" y3="0" y4="64" y5="64" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="custom_003" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\custom_003.png" x0="0" x1="0" x2="0" x3="0" x4="512" x5="512" y0="0" y1="0" y2="0" y3="0" y4="64" y5="64" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="custom_004" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\custom_004.png" x0="0" x1="0" x2="0" x3="0" x4="389" x5="389" y0="0" y1="0" y2="0" y3="0" y4="14" y5="14" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="custom_005" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\custom_005.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="custom_006" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\custom_006.png" x0="0" x1="0" x2="0" x3="0" x4="256" x5="256" y0="0" y1="0" y2="0" y3="0" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="bg_001" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\bg_001.png" x0="0" x1="0" x2="0" x3="0" x4="340" x5="340" y0="0" y1="0" y2="0" y3="0" y4="21" y5="21" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="custom_round" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\custom_round.png" x0="0" x1="0" x2="0" x3="0" x4="251" x5="251" y0="0" y1="0" y2="0" y3="0" y4="14" y5="14" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="custom_thin" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\custom_thin.png" x0="0" x1="0" x2="0" x3="0" x4="1" x5="1" y0="0" y1="0" y2="0" y3="0" y4="14" y5="14" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="custom_oblique" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\custom_oblique.png" x0="0" x1="0" x2="0" x3="0" x4="412" x5="412" y0="0" y1="0" y2="0" y3="0" y4="30" y5="30" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="custom_square" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\custom_square.png" x0="0" x1="0" x2="0" x3="0" x4="389" x5="389" y0="0" y1="0" y2="0" y3="0" y4="25" y5="25" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_thin" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_thin.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_thin_half_top" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_thin_half_top.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_thin_half_right" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_thin_half_right.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_thin_half_bottom" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_thin_half_bottom.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_thin_half_left" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_thin_half_left.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_medium" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_medium.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_medium_half_top" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_medium_half_top.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_medium_half_right" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_medium_half_right.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_medium_half_bottom" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_medium_half_bottom.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_medium_half_left" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_medium_half_left.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_thick" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_thick.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_thick_half_top" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_thick_half_top.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_thick_half_right" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_thick_half_right.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_thick_half_bottom" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_thick_half_bottom.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_thick_half_left" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_thick_half_left.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_lines" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_lines.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_lines_half_top" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_lines_half_top.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_lines_half_right" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_lines_half_right.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_lines_half_bottom" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_lines_half_bottom.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="circle_lines_half_left" Cycle="1">
+        <Frame Texture="LUI_Aura\Bars\circle_lines_half_left.png" x0="0" x1="0" x2="0" x3="0" x4="300" x5="300" y0="0" y1="0" y2="0" y3="0" y4="300" y5="300" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+</Sprites>

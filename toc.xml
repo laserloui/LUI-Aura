@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Loui" APIVersion="13" Name="LUI_Aura" Description="Buff / Debuff / Cast / Ability / Cooldown / Health / Resource / Keybind / Gadget / AMP / Innate tracker">
+	<Script Name="Libs/GeminiColor/GeminiColor.lua"/>
+	<Script Name="Libs/LibJSON/LibJSON-2.5.lua"/>
+    <Script Name="LUI_Aura.lua"/>
+    <Script Name="LUI_AuraConfig.lua"/>
+    <Form Name="LUI_Aura.xml"/>
+</Addon>
